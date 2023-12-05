@@ -1,5 +1,3 @@
-CC = gcc
-
 default:
 	$(CC) -o deersay main.c
 	chmod +x deersay
