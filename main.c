@@ -6,7 +6,7 @@ void printdeer(){
   printf("     \\      \\__/\n");
   printf("      \\     (oo)\\_______\n");
   printf("            (__)\\       )\\/\\\n");
-  printf("                ||----w |\n");
+  printf("                ||-----||\n");
   printf("                ||     ||\n\n");
 }
 
